@@ -15,8 +15,8 @@ function Header() {
 
   return (
     <header>
-      <Link to="/"><h2>Pic Some</h2></Link>
-      <Link to="/cart">{cartIcon()}</Link>
+      <Link to="/pic-some/"><h2>Pic Some</h2></Link>
+      <Link to="/pic-some/cart">{cartIcon()}</Link>
     </header>
   )
 }
