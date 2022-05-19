@@ -2,12 +2,13 @@
 
 ## Purpose
 This app is meant to be a self directed exercise in 
-1. React Context, react-router-dom, and custom hooks 
+1. React Context
 2. react-router-dom
 3. Custom hooks
 
 ## General Use
 [Repository](https://github.com/wilso663/pic-some)  
+[Live Solution](https://wilso663.github.io/pic-some/)
 
 ![image](/src/images/HomePage.png)
 ![image](/src/images/CartPage.png)
@@ -22,4 +23,4 @@ Users can
 While this app is meant for use on a desktop, it is responsive and will work on modern phone sizes and layouts.
 This app is also a front end only. Pressing checkout does nothing except clear the current saved cart items.
 
-While this exercise is meant to be self directed and was, the exercises given were part of the scrimba front end developer program course, and the image data is provided by Bob Ziroll. All image credit goes to him. You can find his github page here: [Bob Ziroll](https://github.com/bobziroll)
+While this exercise is meant to be self directed and was, the exercises given were part of the scrimba front end developer program course, and the image data is provided by [Bob Ziroll](https://github.com/bobziroll). All image credit goes to him. You can find his github page here: [Bob Ziroll](https://github.com/bobziroll)
